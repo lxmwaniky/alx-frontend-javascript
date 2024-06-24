@@ -9,3 +9,4 @@
 - String templating in ES6
 - Object creation and their properties in ES6
 - Iterators and for-of loops
+- [Project Setup](https://youtu.be/y-202en_9NA?si=5mD1bJUzgj6ndayL)
